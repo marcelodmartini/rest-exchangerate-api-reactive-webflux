@@ -1,0 +1,5 @@
+{"properties": [{
+  "name": "app.endpoints.api.rate",
+  "type": "java.lang.String",
+  "description": "A description for 'app.endpoints.api.rate'"
+}]}

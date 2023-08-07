@@ -1,0 +1,1 @@
+CREATE TABLE IF NOT EXISTS PUBLIC.exchange_rate (id INT PRIMARY KEY AUTO_INCREMENT, origin_currency VARCHAR(255), final_currency VARCHAR(255), date VARCHAR(255), rate_value DOUBLE)
